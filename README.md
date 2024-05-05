@@ -1,6 +1,10 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### NAME: SOUVIK KUNDU
+### REG: 2122212230105
+### DATE: 01-05-24
+### AIM: 
+To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+
 ### Description: 
 <div align = "justify">
 
@@ -26,5 +30,11 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![](1.png)
+
+![](2.png)
+
+![](3.png)
 
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
